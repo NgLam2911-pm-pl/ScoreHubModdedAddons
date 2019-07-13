@@ -28,7 +28,7 @@ namespace JackMD\ScoreHud\Addons
 		 */
 		public function getProcessedTags(Player $player): array{
 			return [
-				"{point}" => $this->economyAPI->myPoint($player)
+				"{point}" => $this->pointAPI->myPoint($player)
 			];
 		}
 	}
