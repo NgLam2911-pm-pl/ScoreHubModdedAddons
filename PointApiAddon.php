@@ -4,7 +4,7 @@ declare(strict_types = 1);
 /**
  * @name PointApiAddon
  * @version 1.0.0
- * @main JackMD\ScoreHud\Addons\PointApiApiAddon
+ * @main JackMD\ScoreHud\Addons\PointApiAddon
  * @depend PointAPI
  */
 namespace JackMD\ScoreHud\Addons
