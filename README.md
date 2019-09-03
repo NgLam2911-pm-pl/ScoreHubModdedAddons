@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/LamPocketVN/ScoreHubModedAddons.svg)](http://hits.dwyl.io/LamPocketVN/ScoreHubModedAddons)
 # Addons
 |Addon|Supported Tags|Required Plugin|
 |:--:|:--:|:--:|
