@@ -4,3 +4,4 @@
 |:--:|:--:|:--:|
 |PointApiAddon|`{point}`|[PointAPI](https://github.com/LamPocketVN/PointAPI)|
 |PointApiPhuongAzAddon|`{point}`|[PointAPI](https://github.com/ZzKino/PointAPI)|
+|PlayerLevelApiAddon|`{level} {xp} {maxlevel} {maxxp}`|[LpkPlayerLevelAPI](https://github.com/LamPocketVN/LpkPlayerLevelAPI)|
